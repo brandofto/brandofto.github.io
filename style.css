@@ -1,7 +1,7 @@
 /* CSS Document */
 
 .top {
-  width: 100%;
+  width: 80%
   margin: 0 auto;
 }
     nav {
@@ -34,7 +34,7 @@ nav li {
 }
 img "GTB logo" {
   float: left;
-  padding: 5px 0;
+  padding: 10px 0;
   position: relative;
 }
 
@@ -52,7 +52,7 @@ nav a:hover {
 nav a::before {
   content: "";
   display: block;
-  height: 8px;
+  height: 5px;
   width: 0%
   background-color: black;
   position: absolute;
