@@ -64,6 +64,30 @@ nav a:hover::before {
   width: 100%
 }
 
-.GTB Nova{
-  background-image: url(nova photo.png);
+.jak {
+  font-family: cursive;
+  font-size: 12px;
+
+}
+
+.brando {
+  font-family: cursive;
+  font-size: 12px;
+
+}
+
+
+.Dom {
+  font-family: cursive;
+  font-size: 12px;
+}
+
+.champ {
+  font-family: cursive;
+  font-size: 12px;
+}
+
+.Nova {
+  font-family: cursive;
+  font-size: 12px;
 }
