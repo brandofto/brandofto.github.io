@@ -1,7 +1,7 @@
 /* CSS Document */
 
 .top {
-  width: 80%
+  width: 100%;
   margin: 0 auto;
 }
     nav {
@@ -52,7 +52,7 @@ nav a:hover {
 nav a::before {
   content: "";
   display: block;
-  height: 5px;
+  height: 8px;
   width: 0%
   background-color: black;
   position: absolute;
