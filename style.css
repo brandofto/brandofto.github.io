@@ -66,28 +66,33 @@ nav a:hover::before {
 
 .jak {
   font-family: cursive;
-  font-size: 12px;
+  font-size: 18px;
 
 }
 
 .brando {
   font-family: cursive;
-  font-size: 12px;
+  font-size: 18px;
 
 }
 
 
 .Dom {
   font-family: cursive;
-  font-size: 12px;
+  font-size: 18px;
 }
 
 .champ {
   font-family: cursive;
-  font-size: 12px;
+  font-size: 18px;
 }
 
 .Nova {
   font-family: cursive;
-  font-size: 12px;
+  font-size: 18px;
+}
+
+.home{
+  font-family: cursive;
+  font-size: 18px;
 }
